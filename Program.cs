@@ -8,5 +8,9 @@ namespace RabjotSingh
         {
             Console.WriteLine("Hello World!");
         }
+
+        public void Method1()
+        {
+            Console.WriteLine("Rabjot");        }
     }
 }
